@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <available_offline>false</available_offline>
+        <description>Passenger transport system Caddy Request</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Paper-Plane">48806bca073201104679f8ed7c1ed05e</icon>
+        <name>Activity Stream</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 10:04:28</sys_created_on>
+        <sys_id>2c802f0e073201104679f8ed7c1ed046</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity Stream</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_2c802f0e073201104679f8ed7c1ed046</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 10:04:28</sys_updated_on>
+        <table>x_757981_up_caddy_request</table>
+    </sys_sg_activity_stream_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=2c802f0e073201104679f8ed7c1ed046"/>
+</record_update>

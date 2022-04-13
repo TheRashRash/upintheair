@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Caddy Request" max_length="40" name="x_757981_up_caddy_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Caddy req" max_length="40" name="caddy_req" type="string"/>
+    </element>
+</database>
