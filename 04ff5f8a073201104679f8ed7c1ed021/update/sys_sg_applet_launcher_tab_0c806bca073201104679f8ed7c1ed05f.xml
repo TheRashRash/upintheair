@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="UpInTheAir">40806bca073201104679f8ed7c1ed05f</applet_launcher>
+        <icon display_value="Home UpInTheAir">4c806bca073201104679f8ed7c1ed05f</icon>
+        <label>UpInTheAir</label>
+        <roles>x_757981_up.passenger</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 10:04:26</sys_created_on>
+        <sys_id>0c806bca073201104679f8ed7c1ed05f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UpInTheAir</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_0c806bca073201104679f8ed7c1ed05f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 10:04:26</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>
