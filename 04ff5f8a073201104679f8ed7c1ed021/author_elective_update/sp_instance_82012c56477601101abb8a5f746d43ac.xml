@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">82012c56477601101abb8a5f746d43aa</sp_column>
+        <sp_widget display_value="Knowledge Featured Articles">ba8d45ffdb50320099f93691f0b8f51b</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 14:46:22</sys_created_on>
+        <sys_id>82012c56477601101abb8a5f746d43ac</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Featured</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sp_instance_82012c56477601101abb8a5f746d43ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-14 09:47:25</sys_updated_on>
+        <title>Featured</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"table": {
+		"value": "kb_knowledge",
+		"displayValue": "kb_knowledge"
+	},
+	"display_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"max_records": {
+		"value": "",
+		"displayValue": ""
+	},
+	"always_show": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_secondary_fields_label": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"knowledge_base": {
+		"value": "4c1f5ce2473201101abb8a5f746d4325",
+		"displayValue": "Up In The Air"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=82012c56477601101abb8a5f746d43ac"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</application>
+        <file_path/>
+        <instance_id>0706b72ddbcb40582f68c59705961950</instance_id>
+        <instance_name>dev101268</instance_name>
+        <name>sp_instance_82012c56477601101abb8a5f746d43ac</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;82012c56477601101abb8a5f746d43aa&lt;/sp_column&gt;&lt;sp_widget display_value="Knowledge Featured Articles"&gt;ba8d45ffdb50320099f93691f0b8f51b&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-04-13 14:46:22&lt;/sys_created_on&gt;&lt;sys_id&gt;82012c56477601101abb8a5f746d43ac&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Featured&lt;/sys_name&gt;&lt;sys_package display_value="UpInTheAir" source="x_757981_up"&gt;04ff5f8a073201104679f8ed7c1ed021&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="UpInTheAir"&gt;04ff5f8a073201104679f8ed7c1ed021&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_82012c56477601101abb8a5f746d43ac&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-04-14 09:47:25&lt;/sys_updated_on&gt;&lt;title&gt;Featured&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"table": {
+		"value": "kb_knowledge",
+		"displayValue": "kb_knowledge"
+	},
+	"display_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"max_records": {
+		"value": "",
+		"displayValue": ""
+	},
+	"always_show": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_secondary_fields_label": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"knowledge_base": {
+		"value": "4c1f5ce2473201101abb8a5f746d4325",
+		"displayValue": "Up In The Air"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=82012c56477601101abb8a5f746d43ac"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-520490333</payload_hash>
+        <record_name>Featured</record_name>
+        <reverted_from/>
+        <source>711a27c6473201101abb8a5f746d4375</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-14 09:47:25</sys_created_on>
+        <sys_id>d436a8aa473201101abb8a5f746d4310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18027786dc40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-14 09:47:25</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>dc36a8aa45320110c8470fd504510c0f</update_guid>
+        <update_guid_history>dc36a8aa45320110c8470fd504510c0f:-520490333,0cb5e0aa2d3201104586d6944cee67dc:-1931543958,0a012c560376011007d35790f7f07aad:-637075415</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Featured">0417e4ea473201101abb8a5f746d4333</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-14 09:51:12</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>07ac7c9da92e4ff0855e65df99fb9739</sys_id>
+        <sys_metadata>82012c56477601101abb8a5f746d43ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Featured</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_scope_delete display_value="">778d673bae194ee0bdd29b572d7a6400</sys_scope_delete>
+        <sys_update_name>sp_instance_82012c56477601101abb8a5f746d43ac</sys_update_name>
+        <sys_update_version display_value="sp_instance_82012c56477601101abb8a5f746d43ac">d436a8aa473201101abb8a5f746d4310</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-14 09:51:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
