@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="Caddy Request" max_length="40" name="x_757981_up_caddy_request" sizeclass="0" type="collection">
+        <element label="Caddy CI" max_length="32" name="caddy_ci" reference="x_757981_up_cmdb_ci_uita" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Caddy req" max_length="40" name="caddy_req" type="string"/>
         <element label="Passenger email" max_length="100" name="passenger_email" type="string"/>
     </element>
