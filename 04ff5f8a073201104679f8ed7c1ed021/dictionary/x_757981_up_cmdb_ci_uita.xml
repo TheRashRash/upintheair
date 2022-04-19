@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci" label="cmdb_ci_uita" max_length="40" name="x_757981_up_cmdb_ci_uita" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Passengers" max_length="40" name="passengers" type="integer"/>
+        <element label="Terminal" max_length="40" name="terminal" type="string"/>
+    </element>
+</database>

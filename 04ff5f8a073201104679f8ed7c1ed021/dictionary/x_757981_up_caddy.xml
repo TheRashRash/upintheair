@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Caddy" max_length="40" name="x_757981_up_caddy" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Caddy ID" label="Caddy ID" max_length="40" name="u_caddy_id" type="string"/>
+        <element attributes="import_attribute_name=Max number of passengers" label="Max number of passengers" max_length="40" name="u_max_number_of_passengers" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Terminal" label="Terminal" max_length="40" name="u_terminal" type="string"/>
+    </element>
+</database>
