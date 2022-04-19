@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Caddy">dd3692cc97030110f964b998c253af08</sc_cat_item>
+        <sc_catalog display_value="Caddy Catalog">7ed26a4897430110f964b998c253afe8</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 10:46:21</sys_created_on>
+        <sys_id>54a36a8897430110f964b998c253af3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Caddy Catalog.Caddy</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_54a36a8897430110f964b998c253af3a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 10:46:21</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

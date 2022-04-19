@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_terminals" label="Terminals" language="en" table="x_757981_up_caddy_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_terminals</element>
+            <help/>
+            <hint/>
+            <label>Terminals</label>
+            <language>en</language>
+            <name>x_757981_up_caddy_request</name>
+            <plural>Terminals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-04-19 11:19:32</sys_created_on>
+            <sys_id>a23b624097830110f964b998c253af3c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Terminals</sys_name>
+            <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+            <sys_update_name>sys_documentation_x_757981_up_caddy_request_u_terminals_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-04-19 11:19:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
