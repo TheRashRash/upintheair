@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Caddy Request" max_length="40" name="x_757981_up_caddy_request" type="collection">
+    <element extends="task" label="Caddy Request" max_length="40" name="x_757981_up_caddy_request" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Caddy req" max_length="40" name="caddy_req" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Caddy Size" mandatory="true" max_length="40" name="u_caddy_option" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Standard (2 Seats)" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="Large (4 Seats)" sequence="1" value="4"/>
+                <element inactive_on_update="false" label="Extra Large (6 Seats)" sequence="2" value="6"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Terminals" mandatory="true" max_length="40" name="u_terminals" type="string">
+            <choice>
+                <element inactive_on_update="false" label="North" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="South" sequence="1" value="2"/>
+            </choice>
+        </element>
     </element>
 </database>
