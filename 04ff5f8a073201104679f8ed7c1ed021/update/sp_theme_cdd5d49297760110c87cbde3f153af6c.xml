@@ -14,7 +14,7 @@ $navbar-inverse-link-hover-color: $cloud-Primary !default;&#13;
 $body-bg: $cloud-Secondary !default;&#13;
 &#13;
 </css_variables>
-        <footer/>
+        <footer display_value="UITA Footer">2b303f5897434110f964b998c253af14</footer>
         <footer_fixed>true</footer_fixed>
         <header display_value="Stock Header">bf5ec2f2cb10120000f8d856634c9c0c</header>
         <name>Up in the air theme</name>
@@ -23,13 +23,13 @@ $body-bg: $cloud-Secondary !default;&#13;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-13 13:57:40</sys_created_on>
         <sys_id>cdd5d49297760110c87cbde3f153af6c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Up in the air theme</sys_name>
         <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
         <sys_policy/>
         <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
         <sys_update_name>sp_theme_cdd5d49297760110c87cbde3f153af6c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-13 14:02:18</sys_updated_on>
+        <sys_updated_on>2022-04-20 11:16:49</sys_updated_on>
     </sp_theme>
 </record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Caddy Request">bee15b9897cf0110f964b998c253af89</sc_cat_item>
+        <sc_catalog display_value="Caddy Catalog">7ed26a4897430110f964b998c253afe8</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 08:47:05</sys_created_on>
+        <sys_id>8be1171c97cf0110f964b998c253af43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Caddy Catalog.Caddy Request</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_8be1171c97cf0110f964b998c253af43</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 08:47:05</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</application>
+        <file_path/>
+        <instance_id>7069b626dbfc2300439ef70fbf961918</instance_id>
+        <instance_name>dev71565</instance_name>
+        <name>sc_cat_item_catalog_8be1171c97cf0110f964b998c253af43</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Caddy Request">bee15b9897cf0110f964b998c253af89</sc_cat_item><sc_catalog display_value="Caddy Catalog">7ed26a4897430110f964b998c253afe8</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 08:47:05</sys_created_on><sys_id>8be1171c97cf0110f964b998c253af43</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Caddy Catalog.Caddy Request</sys_name><sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package><sys_policy/><sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope><sys_update_name>sc_cat_item_catalog_8be1171c97cf0110f964b998c253af43</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 08:47:05</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>165197142</payload_hash>
+        <record_name>Caddy Catalog.Caddy Request</record_name>
+        <reverted_from/>
+        <source>1f85120c97030110f964b998c253afa9</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 08:47:05</sys_created_on>
+        <sys_id>07e1171c97cf0110f964b998c253af46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180462758490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 08:47:05</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>8be1171caacf01108f2684f2b76f5345</update_guid>
+        <update_guid_history>8be1171caacf01108f2684f2b76f5345:165197142</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Caddy Catalog.Caddy Request">59d69f5097034110f964b998c253af21</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-20 09:08:32</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>09f3dfba7c4d41bb94c6c12cedcfd9c9</sys_id>
+        <sys_metadata>8be1171c97cf0110f964b998c253af43</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Caddy Catalog.Caddy Request</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_parent display_value="Caddy Request">4c1e1a0497430110f964b998c253afd8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_scope_delete display_value="">778d673bae194ee0bdd29b572d7a6400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_8be1171c97cf0110f964b998c253af43</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_8be1171c97cf0110f964b998c253af43">07e1171c97cf0110f964b998c253af46</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-20 09:08:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

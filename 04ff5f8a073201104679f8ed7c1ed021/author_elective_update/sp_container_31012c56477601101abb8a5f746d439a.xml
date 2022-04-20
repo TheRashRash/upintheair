@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>cover</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>kb-home-explorer-continer</class_name>
+        <container_class_name/>
+        <name>UITA Knowledge Home - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="uita_knowledge_home">f5012856477601101abb8a5f746d43fc</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 14:46:22</sys_created_on>
+        <sys_id>31012c56477601101abb8a5f746d439a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>UITA Knowledge Home - Container 2</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sp_container_31012c56477601101abb8a5f746d439a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 14:46:47</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</application>
+        <file_path/>
+        <instance_id>7069b626dbfc2300439ef70fbf961918</instance_id>
+        <instance_name>dev71565</instance_name>
+        <name>sp_container_31012c56477601101abb8a5f746d439a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>cover</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>kb-home-explorer-continer</class_name>
+        <container_class_name/>
+        <name>UITA Knowledge Home - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="uita_knowledge_home">f5012856477601101abb8a5f746d43fc</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 14:46:22</sys_created_on>
+        <sys_id>31012c56477601101abb8a5f746d439a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>UITA Knowledge Home - Container 2</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sp_container_31012c56477601101abb8a5f746d439a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 14:46:47</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>]]></payload>
+        <payload_hash>-526472553</payload_hash>
+        <record_name>UITA Knowledge Home - Container 2</record_name>
+        <reverted_from/>
+        <source>4975528c97030110f964b998c253afbf</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 09:44:26</sys_created_on>
+        <sys_id>2575928c97030110f964b998c253af72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18041357f570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 09:44:26</sys_updated_on>
+        <type>Container</type>
+        <update_guid>e175928cb5030110c7b4c900af930872</update_guid>
+        <update_guid_history>e175928cb5030110c7b4c900af930872:-526472553</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="UITA Knowledge Home - Container 2">9d13371c97434110f964b998c253af98</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 11:11:57</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>10d2819635e04e188369a72e1d419ef1</sys_id>
+        <sys_metadata>31012c56477601101abb8a5f746d439a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UITA Knowledge Home - Container 2</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_scope_delete display_value="">778d673bae194ee0bdd29b572d7a6400</sys_scope_delete>
+        <sys_update_name>sp_container_31012c56477601101abb8a5f746d439a</sys_update_name>
+        <sys_update_version display_value="sp_container_31012c56477601101abb8a5f746d439a">2575928c97030110f964b998c253af72</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 11:11:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>150</misc>
+        <order>200</order>
+        <published_ref display_value="Large (4 Seats)">046c9ac097430110f964b998c253afee</published_ref>
+        <question display_value="Which size caddy would you like to request ?">8f711fd897cf0110f964b998c253af5e</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 08:45:10</sys_created_on>
+        <sys_id>8f711fd897cf0110f964b998c253af69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Large (4 Seats)</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>question_choice_8f711fd897cf0110f964b998c253af69</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 08:45:10</sys_updated_on>
+        <text>Large (4 Seats)</text>
+        <value>4</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=8f711fd897cf0110f964b998c253af69"/>
+    <fx_price action="DELETE">
+        <amount>150</amount>
+        <currency display_value="GBP">GBP</currency>
+        <field>misc</field>
+        <id>8f711fd897cf0110f964b998c253af69</id>
+        <parent/>
+        <reference_amount>195.3291</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 08:45:10</sys_created_on>
+        <sys_id>4b711fd897cf0110f964b998c253af6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 08:45:10</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</application>
+        <file_path/>
+        <instance_id>7069b626dbfc2300439ef70fbf961918</instance_id>
+        <instance_name>dev71565</instance_name>
+        <name>question_choice_8f711fd897cf0110f964b998c253af69</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>150</misc><order>200</order><published_ref display_value="Large (4 Seats)">046c9ac097430110f964b998c253afee</published_ref><question display_value="Which size caddy would you like to request ?">8f711fd897cf0110f964b998c253af5e</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 08:45:10</sys_created_on><sys_id>8f711fd897cf0110f964b998c253af69</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Large (4 Seats)</sys_name><sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package><sys_policy/><sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope><sys_update_name>question_choice_8f711fd897cf0110f964b998c253af69</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 08:45:10</sys_updated_on><text>Large (4 Seats)</text><value>4</value></question_choice><fx_price action="delete_multiple" query="id=8f711fd897cf0110f964b998c253af69"/><fx_price action="INSERT_OR_UPDATE"><amount>150</amount><currency display_value="GBP">GBP</currency><field>misc</field><id>8f711fd897cf0110f964b998c253af69</id><parent/><reference_amount>195.3291</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 08:45:10</sys_created_on><sys_id>4b711fd897cf0110f964b998c253af6b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 08:45:10</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-1207016236</payload_hash>
+        <record_name>Large (4 Seats)</record_name>
+        <reverted_from/>
+        <source>1f85120c97030110f964b998c253afa9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 08:45:10</sys_created_on>
+        <sys_id>8f711fd897cf0110f964b998c253af6e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1804625984f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 08:45:10</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>07711fd84fcf0110f7b0289d5b539c6e</update_guid>
+        <update_guid_history>07711fd84fcf0110f7b0289d5b539c6e:-1207016236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Large (4 Seats)">f9039b5c97cf0110f964b998c253afc7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-20 08:51:55</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>1f7083da696e4d0cba558a76d137b1f1</sys_id>
+        <sys_metadata>8f711fd897cf0110f964b998c253af69</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Large (4 Seats)</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_parent display_value="">8f711fd897cf0110f964b998c253af5e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_scope_delete display_value="">778d673bae194ee0bdd29b572d7a6400</sys_scope_delete>
+        <sys_update_name>question_choice_8f711fd897cf0110f964b998c253af69</sys_update_name>
+        <sys_update_version display_value="question_choice_8f711fd897cf0110f964b998c253af69">8f711fd897cf0110f964b998c253af6e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-20 08:51:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

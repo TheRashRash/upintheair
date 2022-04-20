@@ -9,11 +9,11 @@
         <kb_article/>
         <kb_category/>
         <kb_topic/>
-        <order>0</order>
+        <order>1</order>
         <roles/>
         <sc_cat_item/>
         <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
-        <short_description>Contact support to make a request, or report a problem</short_description>
+        <short_description>Contact support to notify of any baggage, flight or caddy issues</short_description>
         <size>md</size>
         <sp_column display_value="3">aad3981297760110c87cbde3f153aff6</sp_column>
         <sp_page display_value="sc_category">07261a2147132100ba13a5554ee49092</sp_page>
@@ -22,15 +22,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-13 13:48:48</sys_created_on>
         <sys_id>ead3981297760110c87cbde3f153aff8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Get Help</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Report an Issue</sys_name>
         <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
         <sys_policy/>
         <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
         <sys_update_name>sp_instance_link_ead3981297760110c87cbde3f153aff8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-13 13:48:48</sys_updated_on>
-        <title>Get Help</title>
+        <sys_updated_on>2022-04-20 10:24:50</sys_updated_on>
+        <title>Report an Issue</title>
         <type>sc_category</type>
         <url/>
         <widget_parameters><![CDATA[{

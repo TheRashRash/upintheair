@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Caddy Request">bee15b9897cf0110f964b998c253af89</sc_cat_item>
+        <sc_category display_value="Caddy">5a44c514974b0110f964b998c253afb1</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 08:47:05</sys_created_on>
+        <sys_id>4fe1171c97cf0110f964b998c253af46</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Caddy.Caddy Request</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sc_cat_item_category_4fe1171c97cf0110f964b998c253af46</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 08:47:05</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</application>
+        <file_path/>
+        <instance_id>7069b626dbfc2300439ef70fbf961918</instance_id>
+        <instance_name>dev71565</instance_name>
+        <name>sc_cat_item_category_4fe1171c97cf0110f964b998c253af46</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Caddy Request">bee15b9897cf0110f964b998c253af89</sc_cat_item><sc_category display_value="Caddy">5a44c514974b0110f964b998c253afb1</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 08:47:05</sys_created_on><sys_id>4fe1171c97cf0110f964b998c253af46</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Caddy.Caddy Request</sys_name><sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package><sys_policy/><sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope><sys_update_name>sc_cat_item_category_4fe1171c97cf0110f964b998c253af46</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 08:47:05</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1236248953</payload_hash>
+        <record_name>Caddy.Caddy Request</record_name>
+        <reverted_from/>
+        <source>1f85120c97030110f964b998c253afa9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 08:47:05</sys_created_on>
+        <sys_id>4be1171c97cf0110f964b998c253af4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180462758740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 08:47:05</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>cfe1171caacf01103dba9b4f6573ae49</update_guid>
+        <update_guid_history>cfe1171caacf01103dba9b4f6573ae49:1236248953</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Caddy.Caddy Request">98a2df1c97cf0110f964b998c253afcb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 08:50:10</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0fb96b3bdd0a4c5481949412473a61e4</sys_id>
+        <sys_metadata>4fe1171c97cf0110f964b998c253af46</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Caddy.Caddy Request</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_scope_delete display_value="">778d673bae194ee0bdd29b572d7a6400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_4fe1171c97cf0110f964b998c253af46</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_4fe1171c97cf0110f964b998c253af46">4be1171c97cf0110f964b998c253af4a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 08:50:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
