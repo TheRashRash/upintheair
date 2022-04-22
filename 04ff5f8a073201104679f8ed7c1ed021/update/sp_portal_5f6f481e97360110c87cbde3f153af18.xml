@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
     <sp_portal action="INSERT_OR_UPDATE">
-        <css_variables>$brand-primary:#278efc;
-$body-bg:#bdc0c4;
+        <css_variables>$brand-primary:#49BFBF;
+$body-bg:#8BD9D9;
 $state-success-text:#5cb85c;
 $sp-homepage-bg:#fff;
 $sp-navbar-divider-color:#1E5959;
 $text-color:#ffffff;
 $sp-logo-margin-y:.5rem;
 $navbar-inverse-link-hover-color:#1e5959;
-$panel-bg:#02787d;
+$panel-bg:#05A6A6;
 $brand-success:#5cb85c;
 $navbar-inverse-bg:#03989E;
-$brand-warning:#f0ad4e;
+$brand-warning:#1E5959;
 $brand-danger:#d9534f;
 $sp-tagline-color:#ece5de;
-$navbar-inverse-link-color:#ece5de;
+$navbar-inverse-link-color:#ffffff;
 $brand-info:#5bc0de;
-$link-color:#278efc;
+$link-color:#05A6A6;
 $sp-logo-margin-x:1rem;
-$btn-default-bg:#ffffff;
-$text-muted:#979797;
+$btn-default-bg:#e7e9eb;
+$text-muted:#1E5959;
 </css_variables>
         <default>false</default>
         <enable_ais>false</enable_ais>
         <enable_favorites>false</enable_favorites>
         <hide_portal_name>false</hide_portal_name>
-        <homepage/>
+        <homepage display_value="uita_home_page">d2d3901297760110c87cbde3f153aff9</homepage>
         <icon/>
         <kb_knowledge_base/>
-        <kb_knowledge_page/>
+        <kb_knowledge_page display_value="uita_knowledge_home">f5012856477601101abb8a5f746d43fc</kb_knowledge_page>
         <login_page/>
         <logo>4931581e97360110c87cbde3f153afe4</logo>
         <notfound_page/>
         <quick_start_config/>
         <sc_catalog/>
-        <sc_catalog_page/>
+        <sc_catalog_page display_value="uita_sc_landing">095cd4ec97c34110f964b998c253af49</sc_catalog_page>
         <sc_category_page/>
         <search_application/>
         <search_results_configuration/>
         <sp_chat_queue/>
-        <sp_rectangle_menu/>
+        <sp_rectangle_menu display_value="UITA Header menu">3ec2d8a497c34110f964b998c253af2e</sp_rectangle_menu>
         <sys_class_name>sp_portal</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-13 13:29:42</sys_created_on>
         <sys_id>5f6f481e97360110c87cbde3f153af18</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>49</sys_mod_count>
         <sys_name>Up In The Air </sys_name>
         <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
         <sys_policy/>
         <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
         <sys_update_name>sp_portal_5f6f481e97360110c87cbde3f153af18</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-13 14:33:57</sys_updated_on>
+        <sys_updated_on>2022-04-20 15:06:59</sys_updated_on>
         <theme display_value="Up in the air theme">cdd5d49297760110c87cbde3f153af6c</theme>
         <title>Up In The Air </title>
         <ts_index_group/>

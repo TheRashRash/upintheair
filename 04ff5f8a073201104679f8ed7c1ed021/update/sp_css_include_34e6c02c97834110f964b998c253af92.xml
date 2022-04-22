@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css_include">
+    <sp_css_include action="INSERT_OR_UPDATE">
+        <name>Google font - Montserrat</name>
+        <source>url</source>
+        <sp_css/>
+        <sys_class_name>sp_css_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 12:39:21</sys_created_on>
+        <sys_id>34e6c02c97834110f964b998c253af92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google font - Montserrat</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sp_css_include_34e6c02c97834110f964b998c253af92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 12:39:21</sys_updated_on>
+        <url>https://fonts.googleapis.com/css2?family=Montserrat:wght@800&amp;display=swap</url>
+    </sp_css_include>
+</record_update>
