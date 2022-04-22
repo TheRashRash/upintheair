@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>100</order>
+        <published_ref display_value="North">249b2a4097830110f964b998c253afb8</published_ref>
+        <question display_value="Which terminal are you in ?">55b69b5097034110f964b998c253afac</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 09:07:59</sys_created_on>
+        <sys_id>ddb69b5097034110f964b998c253afc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>North</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>question_choice_ddb69b5097034110f964b998c253afc5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 09:07:59</sys_updated_on>
+        <text>North</text>
+        <value>1</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=ddb69b5097034110f964b998c253afc5"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>ddb69b5097034110f964b998c253afc5</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 09:07:59</sys_created_on>
+        <sys_id>5db69b5097034110f964b998c253afc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 09:07:59</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>ddb69b5097034110f964b998c253afc5</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 09:07:59</sys_created_on>
+        <sys_id>11b69b5097034110f964b998c253afc7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 09:07:59</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</application>
+        <file_path/>
+        <instance_id>7069b626dbfc2300439ef70fbf961918</instance_id>
+        <instance_name>dev71565</instance_name>
+        <name>question_choice_ddb69b5097034110f964b998c253afc5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>100</order><published_ref display_value="North">249b2a4097830110f964b998c253afb8</published_ref><question display_value="Which terminal are you in ?">55b69b5097034110f964b998c253afac</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 09:07:59</sys_created_on><sys_id>ddb69b5097034110f964b998c253afc5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>North</sys_name><sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package><sys_policy/><sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope><sys_update_name>question_choice_ddb69b5097034110f964b998c253afc5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 09:07:59</sys_updated_on><text>North</text><value>1</value></question_choice><fx_price action="delete_multiple" query="id=ddb69b5097034110f964b998c253afc5"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>ddb69b5097034110f964b998c253afc5</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 09:07:59</sys_created_on><sys_id>5db69b5097034110f964b998c253afc7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 09:07:59</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>ddb69b5097034110f964b998c253afc5</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 09:07:59</sys_created_on><sys_id>11b69b5097034110f964b998c253afc7</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 09:07:59</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-128243935</payload_hash>
+        <record_name>North</record_name>
+        <reverted_from/>
+        <source>1f85120c97030110f964b998c253afa9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 09:07:59</sys_created_on>
+        <sys_id>d1b69b5097034110f964b998c253afca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180463a7ad10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 09:07:59</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>59b69b50230341103464d5b6774288c9</update_guid>
+        <update_guid_history>59b69b50230341103464d5b6774288c9:-128243935</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="North">add69f5097034110f964b998c253afb0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-04-20 09:08:33</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>86a545b5a3e740f09182292135b016e1</sys_id>
+        <sys_metadata>ddb69b5097034110f964b998c253afc5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>North</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_parent display_value="">55b69b5097034110f964b998c253afac</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_scope_delete display_value="">778d673bae194ee0bdd29b572d7a6400</sys_scope_delete>
+        <sys_update_name>question_choice_ddb69b5097034110f964b998c253afc5</sys_update_name>
+        <sys_update_version display_value="question_choice_ddb69b5097034110f964b998c253afc5">d1b69b5097034110f964b998c253afca</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-20 09:08:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

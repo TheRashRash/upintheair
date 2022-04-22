@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">dec6d4a897c34110f964b998c253afad</sp_column>
+        <sp_widget display_value="KB Knowledge Bases">fa384fda730823004a1f3ae234f6a78a</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 13:47:59</sys_created_on>
+        <sys_id>87c658a897c34110f964b998c253af65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sp_instance_87c658a897c34110f964b998c253af65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 13:47:59</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=87c658a897c34110f964b998c253af65"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</application>
+        <file_path/>
+        <instance_id>7069b626dbfc2300439ef70fbf961918</instance_id>
+        <instance_name>dev71565</instance_name>
+        <name>sp_instance_87c658a897c34110f964b998c253af65</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">dec6d4a897c34110f964b998c253afad</sp_column><sp_widget display_value="KB Knowledge Bases">fa384fda730823004a1f3ae234f6a78a</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 13:47:59</sys_created_on><sys_id>87c658a897c34110f964b998c253af65</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package><sys_policy/><sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope><sys_update_name>sp_instance_87c658a897c34110f964b998c253af65</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 13:47:59</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=87c658a897c34110f964b998c253af65"/></record_update>]]></payload>
+        <payload_hash>1099931765</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1f85120c97030110f964b998c253afa9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 13:47:59</sys_created_on>
+        <sys_id>8fc6d8a897c34110f964b998c253afd5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180473ad63b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 13:47:59</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>c7c6d8a8e8c34110041674c6102a44d5</update_guid>
+        <update_guid_history>c7c6d8a8e8c34110041674c6102a44d5:1099931765</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">48f61ca897c34110f964b998c253afc9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 13:48:36</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>0ad7b600d2564f80813fbcc6e57a4000</sys_id>
+        <sys_metadata>87c658a897c34110f964b998c253af65</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_scope_delete display_value="">778d673bae194ee0bdd29b572d7a6400</sys_scope_delete>
+        <sys_update_name>sp_instance_87c658a897c34110f964b998c253af65</sys_update_name>
+        <sys_update_version display_value="sp_instance_87c658a897c34110f964b998c253af65">8fc6d8a897c34110f964b998c253afd5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 13:48:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

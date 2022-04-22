@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <click_target/>
+        <details/>
+        <details_link_text/>
+        <details_page/>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Up in the air">50fbc42097c34110f964b998c253af8d</display_style>
+        <from>2022-04-19 13:04:30</from>
+        <glyph>bullhorn</glyph>
+        <glyph_alt_text/>
+        <name>COVID-19</name>
+        <public>true</public>
+        <roles/>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <summary>To protect all passengers and staff at Up In The Air, we kindly ask that you continue to social distance and wear a mask where possible when travelling with us. </summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 13:06:15</sys_created_on>
+        <sys_id>76bc806097c34110f964b998c253af3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>COVID-19</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>announcement_76bc806097c34110f964b998c253af3e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 13:06:15</sys_updated_on>
+        <title>COVID-19 UPDATE</title>
+        <to>2022-04-30 13:04:35</to>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=76bc806097c34110f964b998c253af3e"/>
+</record_update>

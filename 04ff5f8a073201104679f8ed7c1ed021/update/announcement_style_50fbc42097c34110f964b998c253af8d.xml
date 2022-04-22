@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement_style">
+    <announcement_style action="INSERT_OR_UPDATE">
+        <alignment>left</alignment>
+        <background_color>#62E676</background_color>
+        <foreground_color>#ffffff</foreground_color>
+        <name>Up in the air</name>
+        <sys_class_name>announcement_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 13:03:51</sys_created_on>
+        <sys_id>50fbc42097c34110f964b998c253af8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Up in the air</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>announcement_style_50fbc42097c34110f964b998c253af8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 13:03:51</sys_updated_on>
+    </announcement_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=50fbc42097c34110f964b998c253af8d"/>
+</record_update>

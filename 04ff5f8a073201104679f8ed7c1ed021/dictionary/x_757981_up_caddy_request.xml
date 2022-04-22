@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Caddy Request" max_length="40" name="x_757981_up_caddy_request" sizeclass="0" type="collection">
+    <element extends="task" label="Caddy Request" max_length="40" name="x_757981_up_caddy_request" sizeclass="7" type="collection">
+        <element label="Caddy CI" max_length="32" name="caddy_ci" reference="x_757981_up_cmdb_ci_uita" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Caddy req" max_length="40" name="caddy_req" type="string"/>
+        <element label="CI Caddy" max_length="32" name="ci_caddy" reference="x_757981_up_cmdb_ci_uita" type="reference"/>
+        <element label="Passenger email" max_length="100" name="passenger_email" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Caddy Size" mandatory="true" max_length="40" name="u_caddy_option" type="string">
             <choice>
                 <element inactive_on_update="false" label="Standard (2 Seats)" sequence="0" value="2"/>
@@ -8,6 +11,9 @@
                 <element inactive_on_update="false" label="Extra Large (6 Seats)" sequence="2" value="6"/>
             </choice>
         </element>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Price" max_length="20" name="u_caddy_price" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="100" name="u_passenger_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="100" name="u_passenger_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Terminals" mandatory="true" max_length="40" name="u_terminals" type="string">
             <choice>
                 <element inactive_on_update="false" label="North" sequence="0" value="1"/>

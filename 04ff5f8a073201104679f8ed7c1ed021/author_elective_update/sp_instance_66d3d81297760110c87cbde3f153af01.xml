@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>0</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">26d3981297760110c87cbde3f153afff</sp_column>
+        <sp_widget display_value="Current Status">1e699082d7001200a9addd173e24d4e3</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-13 13:48:48</sys_created_on>
+        <sys_id>66d3d81297760110c87cbde3f153af01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Current Status</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sp_instance_66d3d81297760110c87cbde3f153af01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-13 13:48:48</sys_updated_on>
+        <title>Current Status</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"standalone": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_outage_details": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=66d3d81297760110c87cbde3f153af01"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</application>
+        <file_path/>
+        <instance_id>7069b626dbfc2300439ef70fbf961918</instance_id>
+        <instance_name>dev71565</instance_name>
+        <name>sp_instance_66d3d81297760110c87cbde3f153af01</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;
+    &lt;sp_instance action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;class_name/&gt;
+        &lt;color&gt;default&lt;/color&gt;
+        &lt;css/&gt;
+        &lt;glyph/&gt;
+        &lt;id/&gt;
+        &lt;order&gt;0&lt;/order&gt;
+        &lt;roles/&gt;
+        &lt;short_description/&gt;
+        &lt;size&gt;md&lt;/size&gt;
+        &lt;sp_column display_value="1"&gt;26d3981297760110c87cbde3f153afff&lt;/sp_column&gt;
+        &lt;sp_widget display_value="Current Status"&gt;1e699082d7001200a9addd173e24d4e3&lt;/sp_widget&gt;
+        &lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-04-13 13:48:48&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;66d3d81297760110c87cbde3f153af01&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Current Status&lt;/sys_name&gt;
+        &lt;sys_package display_value="UpInTheAir" source="x_757981_up"&gt;04ff5f8a073201104679f8ed7c1ed021&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="UpInTheAir"&gt;04ff5f8a073201104679f8ed7c1ed021&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sp_instance_66d3d81297760110c87cbde3f153af01&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-04-13 13:48:48&lt;/sys_updated_on&gt;
+        &lt;title&gt;Current Status&lt;/title&gt;
+        &lt;url/&gt;
+        &lt;widget_parameters&gt;&lt;![CDATA[{
+	"standalone": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_outage_details": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;
+    &lt;/sp_instance&gt;
+    &lt;sys_translated_text action="delete_multiple" query="documentkey=66d3d81297760110c87cbde3f153af01"/&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>41014495</payload_hash>
+        <record_name>Current Status</record_name>
+        <reverted_from/>
+        <source>4975528c97030110f964b998c253afbf</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-19 09:44:33</sys_created_on>
+        <sys_id>d775d28c97030110f964b998c253af23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18041359b210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-19 09:44:33</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>9775d28c29030110d4aee5f7924ea523</update_guid>
+        <update_guid_history>9775d28c29030110d4aee5f7924ea523:41014495</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Current Status">16f6a79097434110f964b998c253afbd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 10:19:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>208fb4fca97c44f1930effbafc6ab9a9</sys_id>
+        <sys_metadata>66d3d81297760110c87cbde3f153af01</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Current Status</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_scope_delete display_value="">778d673bae194ee0bdd29b572d7a6400</sys_scope_delete>
+        <sys_update_name>sp_instance_66d3d81297760110c87cbde3f153af01</sys_update_name>
+        <sys_update_version display_value="sp_instance_66d3d81297760110c87cbde3f153af01">d775d28c97030110f964b998c253af23</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 10:19:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

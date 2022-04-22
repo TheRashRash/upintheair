@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_header_footer">
+    <sp_header_footer action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {  /* widget controller */  var c = this;};]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.footerStyle {
+  width: 100%;
+  background-color:#05A6A6;
+  color: #ffffff;
+  text-align: center;
+  font-size: 100%;
+  margin-left: auto; 
+  margin-right: auto;
+  padding-top: 25px;
+}
+
+.contactIT {
+  width: 275px;
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+}
+
+.contactSecurity {
+  width: 275px;
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+}
+
+.copyright {
+  width: 400px;
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+}
+
+.social {
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+  font-size: 150%;
+}
+</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>uita_footer</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>UITA Footer</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <static>false</static>
+        <sys_class_name>sp_header_footer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 10:59:33</sys_created_on>
+        <sys_id>2b303f5897434110f964b998c253af14</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>UITA Footer</sys_name>
+        <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
+        <sys_update_name>sp_header_footer_2b303f5897434110f964b998c253af14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 13:24:41</sys_updated_on>
+        <template><![CDATA[<div class="footerStyle">
+  
+  <div class="contactIT">
+    <p><strong>CONTACT US</strong></p>
+    <p>customerservice@upintheair.org</p>
+  </div>
+  
+  <div class="copyright">
+    <p>&copy 2022 Up In The Air ServiceNow. All Rights Reserved</p>
+  </div>
+  
+  <div class="social" id="footer">
+    
+    <a class="fa fa-twitter" href="https://www.twitter.com/servicenow" target="_blank"></a> &nbsp
+    <a class="fa fa-facebook" href="https://www.facebook.com/servicenow" target="_blank"></a> &nbsp
+    <a class="fa fa-instagram" href="https://www.instagram.com/lifeatnow/" target="_blank"></a> &nbsp
+  
+  </div>
+  
+</div>
+]]></template>
+    </sp_header_footer>
+</record_update>

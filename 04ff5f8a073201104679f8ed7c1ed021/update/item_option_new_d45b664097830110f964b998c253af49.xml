@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>u_terminals</name>
-        <order>100</order>
+        <order>300</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
@@ -66,16 +66,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-04-19 11:20:40</sys_created_on>
+        <sys_created_on>2022-04-20 09:39:05</sys_created_on>
         <sys_id>d45b664097830110f964b998c253af49</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Which terminal are you in ?</sys_name>
         <sys_package display_value="UpInTheAir" source="x_757981_up">04ff5f8a073201104679f8ed7c1ed021</sys_package>
         <sys_policy/>
         <sys_scope display_value="UpInTheAir">04ff5f8a073201104679f8ed7c1ed021</sys_scope>
         <sys_update_name>item_option_new_d45b664097830110f964b998c253af49</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-19 11:23:17</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-04-20 09:40:13</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>
